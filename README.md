@@ -2,6 +2,7 @@
 Welcome to my GitHub profile! I'm a Physics and Mathematics graduate currently working in Quantitative Finance. I use this space to share some of the projects I worked on during university, as part of self-learning, or in my professional journey.
 
 ##About Me
+A
 <!--
 **MarioRG29/MarioRG29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
