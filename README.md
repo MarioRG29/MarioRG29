@@ -1,8 +1,15 @@
-## Hi there, I'm Mario Rodríguez 👋
-Welcome to my GitHub profile! I'm a Physics and Mathematics graduate currently working in Quantitative Finance. I use this space to share some of the projects I worked on during university, as part of self-learning, or in my professional journey.
+## 👋 Hi there, I'm Mario Rodríguez
 
-##About Me
-A
+Welcome to my GitHub profile! I'm a **Physics** graduate currently working in **Quantitative Finance**. I use this space to share some of the projects I’ve worked on as part of my self-learning journey in **Machine Learning**.
+
+## 🧠 About Me
+📍 Based in Spain  
+🎓 Background in Physics  
+📈 Passionate about Physics and Machine Learning  
+
+## 🌱 Intellectual Interests
+Currently learning **Machine Learning** — working through courses like **CS229** and **CS231n** from *Stanford University*, and applying the concepts in personal projects you can find in my repositories.
+
 <!--
 **MarioRG29/MarioRG29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
